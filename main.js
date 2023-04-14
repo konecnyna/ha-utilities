@@ -38,6 +38,9 @@ class AutoRefresh {
 function run() {
   const magicMirrorAutoRefresh = new AutoRefresh("magic-mirror")
   magicMirrorAutoRefresh.start()
+
+  // Set test Function
+  window.magicMirrorAutoRefresh
 }
 
 
