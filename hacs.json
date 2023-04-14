@@ -1,5 +1,5 @@
 {
-  "name": "Holiday Integration",
+  "name": "HA Custom Utils",
   "render_readme": true,
-  "filename": "snow.js"
+  "filename": "main.js"
 }
